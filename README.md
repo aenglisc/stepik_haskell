@@ -12,5 +12,5 @@ The course is based on `ghci 7.8.2`.
 ## Instructions
 * `make shell` to start an interactive shell
 * `make ghci` to start GHC in interactive mode
-* `make ghci file='PATH/TO/FILE'` to start GHCi with the required file loaded
+* `make ghci file=PATH/TO/FILE` to start GHCi with the required file loaded
 * <kbd>CTRL</kbd> + <kbd>D</kbd> to quit
