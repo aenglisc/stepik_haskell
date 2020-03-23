@@ -1,9 +1,10 @@
 # Functional Programming in Haskell
 
 Exercises from Functional Programming in Haskell on [Stepik](https://stepik.org) by D. Moskvin.
-The course is based on `ghci 7.8.2`.
 * [Part 1](https://stepik.org/course/75)
 * [Part 2](https://stepik.org/course/693)
+
+The course uses `ghc 7.8.2` for evaluating answers. The docker image is based on `ghc 7.8.4`.
 
 ## Requirements
 * `make`
