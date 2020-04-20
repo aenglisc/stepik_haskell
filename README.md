@@ -7,8 +7,8 @@ Exercises from Functional Programming in Haskell on [Stepik](https://stepik.org)
 The course uses `ghc 7.8.2` for evaluating answers. The docker image is based on `ghc 7.8.4`.
 
 ## Requirements
-* `make`
-* `docker`
+* [`make`](https://www.gnu.org/software/make/)
+* [`docker`](https://www.docker.com)
 
 ## Instructions
 * `make shell` to start an interactive shell
